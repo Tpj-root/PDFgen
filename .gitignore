@@ -1,0 +1,8 @@
+# Ignore all PDF files everywhere
+*.pdf
+
+# (optional) ignore PDF in subfolders explicitly (already covered)
+**/*.pdf
+
+# keep folders tracked even if empty (optional)
+!.gitkeep

@@ -1,0 +1,19 @@
+{
+  "pages": {
+    "1": {
+      "content": {
+        "text": [
+          {
+            "value": "Hello world from txt",
+            "x": 50,
+            "y": 700,
+            "font": {
+              "name": "Helvetica",
+              "size": 12
+            }
+          }
+        ]
+      }
+    }
+  }
+}
